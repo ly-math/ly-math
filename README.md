@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Math!
+# 👋 Hi, I'm Ly!
 
 I'm a **frontend web developer** passionate about crafting clean, modern, and user-focused websites.  
 I enjoy turning ideas into interactive web experiences — especially using **React**, **Vite**, and **CSS animations**.
