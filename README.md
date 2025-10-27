@@ -25,9 +25,9 @@ I enjoy turning ideas into interactive web experiences — especially using **Re
 
 | Project | Description | Live Demo |
 |----------|--------------|-----------|
+| 🌐 **[Portfolio v1](https://ly-math.github.io/v1-Portfolio/)** | My personal web developer portfolio | [View on GitHub](https://github.com/ly-math/v1-Portfolio) |
 | 🎌 **[AnimeList](https://ly-math.github.io/AnimeList/)** | Anime discovery app using AniList API | [View on GitHub](https://github.com/ly-math/AnimeList) |
 | 💎 **[Skin1004 Homepage](https://ly-math.github.io/Skin1004-Homepage/)** | Modern homepage clone of Skin1004 | [View on GitHub](https://github.com/ly-math/Skin1004-Homepage) |
-| 🌐 **[Portfolio v1](https://ly-math.github.io/v1-Portfolio/)** | My personal web developer portfolio | [View on GitHub](https://github.com/ly-math/v1-Portfolio) |
 
 ---
 
@@ -41,3 +41,9 @@ I enjoy turning ideas into interactive web experiences — especially using **Re
 ---
 
 ⭐️ *Thanks for visiting my GitHub profile! Feel free to check out my projects and drop a star if you like them.*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ly-math&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ly-math&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
