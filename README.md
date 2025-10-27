@@ -16,7 +16,7 @@ I enjoy turning ideas into interactive web experiences — especially using **Re
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,git,github" />
 </p>
 
 ---
